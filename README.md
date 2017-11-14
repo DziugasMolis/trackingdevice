@@ -1,7 +1,9 @@
 # trackingdevice
 
-Komanda Vėluojantas
+## Komanda Vėluojantys
 
 Nariai 
-  Matas Jurkšaitis
-  Džiugas Molis
+
+Matas Jurkšaitis
+
+Džiugas Molis
